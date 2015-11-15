@@ -1,0 +1,17 @@
+{
+    "siteName": {
+        "value": "VorlonJS-RM-Development"
+    },
+    "hostingPlanName": {
+        "value": "BasicVorlonjsPlan"        
+    },
+    "siteLocation": {
+        "value": "West Europe"      
+    },
+    "sku" :{
+        "value" : "Basic"
+    },
+    "workerSize" : {
+        "value" : "1"
+    }
+}
