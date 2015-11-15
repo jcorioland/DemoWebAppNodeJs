@@ -8,7 +8,7 @@ gulp.task('tests', function(){
 });
 
 gulp.task('zip', function() {
-    gulp.src('./**/*.*')
+    gulp.src('./**/*')
         .pipe(zip('archive.zip'))
         .pipe(gulp.dest('dist'));
 });
