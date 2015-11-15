@@ -1,17 +1,18 @@
 {
-    "siteName": {
-        "value": "NodeJS-JCO-Demo-QA"
-    },
-    "hostingPlanName": {
-        "value": "NodeJS-JCO-Demo-QA-HP"        
-    },
-    "siteLocation": {
-        "value": "West Europe"      
-    },
-    "sku" :{
-        "value" : "Basic"
-    },
-    "workerSize" : {
-        "value" : "1"
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "siteName": {
+            "value": "NodeJS-JCO-Demo-QA"
+        },
+        "hostingPlanName": {
+            "value": "NodeJS-JCO-Demo-QA-HP"
+        },
+        "sku" :{
+            "value" : "Basic"
+        },
+        "workerSize" : {
+            "value" : "1"
+        }
     }
 }
