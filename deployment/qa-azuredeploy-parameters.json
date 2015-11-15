@@ -1,11 +1,17 @@
 {
     "siteName": {
-        "value": "QA-Vorlonjs"
+        "value": "NodeJS-JCO-Demo-QA"
     },
     "hostingPlanName": {
-        "value": "BasicVorlonjsPlan"        
+        "value": "NodeJS-JCO-Demo-QA-HP"        
     },
     "siteLocation": {
-        "value": "West US"      
+        "value": "West Europe"      
+    },
+    "sku" :{
+        "value" : "Basic"
+    },
+    "workerSize" : {
+        "value" : "1"
     }
 }

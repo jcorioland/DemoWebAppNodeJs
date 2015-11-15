@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "siteName": {
-            "value": "NodeJS-JCO-Demo-Dev"
+            "value": "NodeJS-JCO-Demo-QA"
         },
         "hostingPlanName": {
-            "value": "NodeJS-JCO-Demo-Dev-HP"
+            "value": "NodeJS-JCO-Demo-QA-HP"
         },
         "sku" :{
             "value" : "Basic"
