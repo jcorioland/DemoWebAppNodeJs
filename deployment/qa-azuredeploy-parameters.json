@@ -9,7 +9,7 @@
             "value": "NodeJS-JCO-Demo-QA-HP"
         },
         "sku" :{
-            "value" : "Standard"
+            "value" : "Basic"
         },
         "workerSize" : {
             "value" : "0"
